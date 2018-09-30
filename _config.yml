@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @dltrr Sign out
-38
-877 2,450 academicpages/academicpages.github.io
- Code  Issues 41  Pull requests 1  Projects 0  Wiki  Insights
-academicpages.github.io/_config.yml
-7ee9ec3  on 27 Jul
-@staeiou staeiou add future:true
-@staeiou @a-paxton
-     
-307 lines (280 sloc)  7.59 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -322,16 +304,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
