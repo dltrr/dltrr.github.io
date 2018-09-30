@@ -1,3 +1,21 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @dltrr Sign out
+38
+877 2,450 academicpages/academicpages.github.io
+ Code  Issues 41  Pull requests 1  Projects 0  Wiki  Insights
+academicpages.github.io/_config.yml
+7ee9ec3  on 27 Jul
+@staeiou staeiou add future:true
+@staeiou @a-paxton
+     
+307 lines (280 sloc)  7.59 KB
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -6,14 +24,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "pt-BR"
-title                    : "Edson Delatorre"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Edson Delatorre"
-description              : &description "Postdoc at Fiocruz and Professor at UFRJ"
-url                      : https://dltrr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dltrr/dltrr.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,10 +100,10 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Rio de Janeiro, Brazil"
+  location         : "Location"
   employer         :
-  googlescholar    : "https://scholar.google.com.br/citations?user=imU9OYsAAAAJ&hl=en"
-  email            : "edsonod[at]ioc.fiocruz.br
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +111,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dltrr"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5746-0820"
-  pinterest        : "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4189905T1&idiomaExibicao=2"
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "edsondelatorre"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -304,3 +322,16 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
