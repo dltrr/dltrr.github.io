@@ -1,9 +1,9 @@
 ---
 title: "Evidence of multiple introductions and autochthonous transmission of the HIV type 1 CRF02_AG clade in Brazil."
 collection: publications
-permalink: /publication/2012-07-27-CRF02_AG_Brazil
+permalink: /publication/2012-10-01-CRF02_AG_Brazil
 excerpt: 'CRF02_AG Brazilian lineages were successful in getting established and disseminated throughout the Rio de Janeiro state'
-date: 2012-07-27
+date: 2012-10-01
 venue: 'AIDS research and human retroviruses'
 paperurl: ''
 citation: 'Delatorre EO, Bello G, Eyer-Silva WA, Chequer-Fernandez SL, Morgado MG, Couto-Fernandez JC. Evidence of multiple introductions and autochthonous transmission of the HIV type 1 CRF02_AG clade in Brazil. Zhang C, editor. AIDS Res. Hum. Retroviruses. 2012 Oct 9;28(10):1369–72.'
