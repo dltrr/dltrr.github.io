@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Edson Delatorre, PhD"
   avatar           : "profile.png"
-  bio              : "Studying intra and interhost evolutionary dynamics of viruses"
-  location         : "Rio de Janeiro, Brazil"
+  bio              : "Studying intra and interhost evolutionary dynamics of viruses at <a style='color: black;' href='https://portal.fiocruz.br/'>Fiocruz</a>"
+  location         : "<a style='color: black;' href='https://goo.gl/maps/5TrxQDWgJer'>Rio de Janeiro, Brazil</a>"
   employer         :
   googlescholar    : "https://scholar.google.com.br/citations?user=imU9OYsAAAAJ&hl=en-US"
   email            : "edsonod@ioc.fiocruz.br"
