@@ -2,7 +2,7 @@
 title: "Glycine betaine enhances growth of nitrogen-fixing bacteria <i>Gluconacetobacter diazotrophicus</i> PAL5 under saline stress conditions"
 collection: publications
 permalink: /publication/2009-12-01-Gluconacetobacter-saline-stress
-excerpt: 'In this study, the effect of glycine betaine as osmoprotectant compound for <i>Gluconacetobacter diazotrophicus</i> PAL5'
+excerpt: 'The effect of glycine betaine as osmoprotectant compound for <i>Gluconacetobacter diazotrophicus</i> PAL5'
 date: 2009-12-01
 venue: 'Current microbiology'
 paperurl: ''
