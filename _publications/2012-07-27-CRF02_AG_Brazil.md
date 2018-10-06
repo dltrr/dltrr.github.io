@@ -6,7 +6,7 @@ excerpt: 'CRF02_AG Brazilian lineages were successful in getting established and
 date: 2012-10-01
 venue: 'AIDS research and human retroviruses'
 paperurl: ''
-citation: 'Delatorre EO, Bello G, Eyer-Silva WA, Chequer-Fernandez SL, Morgado MG, Couto-Fernandez JC. Evidence of multiple introductions and autochthonous transmission of the HIV type 1 CRF02_AG clade in Brazil. Zhang C, editor. AIDS Res. Hum. Retroviruses. 2012 Oct 9;28(10):1369–72.'
+citation: 'Delatorre EO, Bello G, Eyer-Silva WA, Chequer-Fernandez SL, Morgado MG, Couto-Fernandez JC. Evidence of multiple introductions and autochthonous transmission of the HIV type 1 CRF02_AG clade in Brazil. <i>AIDS Res. Hum. Retroviruses</i>. 2012 Oct 9;28(10):1369–72.'
 ---
 
 **Abstract**
