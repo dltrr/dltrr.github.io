@@ -1,7 +1,7 @@
 ---
 title: "Zika: circulação do vírus começou meses antes da detecção de casos"
 collection: talks
-type: "Talk"
+type: "Interview"
 permalink: /talks/2017-05-25-ZIKA-in-Brasil
 venue: "ASCOM Fiocruz"
 date: 2017-05-25
