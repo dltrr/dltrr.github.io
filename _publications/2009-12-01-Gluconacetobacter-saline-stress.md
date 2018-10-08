@@ -15,6 +15,3 @@ citation: 'Boniolo FS, Rodrigues RC, Delatorre EO, da Silveira MM, Flores VMQ, B
 
 [Paper available here](https://link.springer.com/content/pdf/10.1007%2Fs00284-009-9479-7.pdf)<br>
 [![DOI:10.1007/s00284-009-9479-7](https://zenodo.org/badge/DOI/10.1007/s00284-009-9479-7.svg)](https://doi.org/10.1007/s00284-009-9479-7)
-<br>
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s00284-009-9479-7"></div>
