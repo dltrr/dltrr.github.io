@@ -1,7 +1,7 @@
 ---
 title: "Febre amarela: estudo mapeia mudanças no padrão de entrada e dispersão do vírus"
 collection: talks
-type: "Talk"
+type: "Interview"
 permalink: /talks/2017-08-21-YFV-in-Brasil
 venue: "ASCOM Fiocruz"
 date: 2017-08-21
