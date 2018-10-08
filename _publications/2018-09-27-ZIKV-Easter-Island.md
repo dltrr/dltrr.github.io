@@ -1,9 +1,9 @@
 ---
 title: "Investigating the Role of Easter Island in Migration of Zika Virus from South Pacific to Americas"
 collection: publications
-permalink: /publication/2018-11-01-ZIKV-Easter-Island
+permalink: /publication/2018-09-27-ZIKV-Easter-Island
 excerpt: 'Zika virus was independently disseminated from French Polynesia into the Americas and Easter Island at around the same time.'
-date: 2018-27-09
+date: 2018-09-27
 venue: 'Emerging Infectious Diseases'
 paperurl: ''
 citation: 'Delatorre E, Fernández J, Bello G. Role of Easter Island in migration of Zika virus from South Pacific to Americas. <i>Emerg Infect Dis</i>. 2018 [date cited].'
