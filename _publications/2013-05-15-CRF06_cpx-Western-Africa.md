@@ -1,7 +1,7 @@
 ---
 title: "Spatiotemporal dynamics of the HIV-1 CRF06_cpx epidemic in western Africa"
 collection: publications
-permalink: /publication/2013-05-15-CRF02_cpx-Western-Africa
+permalink: /publication/2013-05-15-CRF06_cpx-Western-Africa
 excerpt: 'The CRF06_cpx most probably emerged in Burkina Faso in 1979, and from there, it disseminated to Mali and Nigeria (1980s) and later to other west and west-central African countries.'
 date: 2013-05-15
 venue: 'AIDS'
