@@ -11,7 +11,7 @@ redirect_from:
 - Biographical details
 
 I’m currently a postdoc in AIDS and Molecular Immunology Lab at Oswaldo Cruz Institute/Fiocruz in Rio de Janeiro – Brazil. During my Ph.D., I have studied the molecular diversity and evolution of HIV in Brazil and other world regions, mainly the African continent. 
-Recently, I expanded my interests to include the study of the emergence, spread, and pathogen-host interactions of other viruses. interests include, but are not limited to, RNA viruses, such as HIV, Yellow fever virus, Chikungunya virus, and Zika virus.
+Recently, I expanded my interests to include the study of the emergence, spread, and pathogen-host interactions of viruses, and other pathogens in general. My primary focus is on RNA viruses, such as HIV, Yellow fever virus, Chikungunya virus, and Zika virus.
 I believe in the importance of collaboration for the scientific progress. In this way, I am always open to collaboration. If you have an interest in my work, feel free to contact me.
 
 - Research interests
