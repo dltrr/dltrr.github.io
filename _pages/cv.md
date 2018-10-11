@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Biology, North Fluminense State University (UENF), 2007
 * M.S. in Biosciences and Biotechnology, North Fluminense State University (UENF), 2009
-* Ph.D in Parasite Biology - Virology, Oswaldo Cruz Institute (IOC), Fiocruz, 2015
+* Ph.D. in Parasite Biology - Virology, Oswaldo Cruz Institute (IOC), Fiocruz, 2015
 
 Publications
 ======
