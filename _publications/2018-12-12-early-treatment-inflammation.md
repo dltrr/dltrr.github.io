@@ -6,7 +6,7 @@ excerpt: 'Early initiation of cART in HIV infection can reduce systemic inflamma
 date: 2018-12-12
 venue: 'Retrovirology'
 paperurl: ''
-citation: 'de Paula HHS, Ferreira ACG, Caetano DG, Delatorre E, Teixeira SLM, Coelho LE, João EG, de Andrade MM, Cardoso SW, Grinsztejn B, Veloso VG, Morgado MG, Guimarães ML and Côrtes FH. Reduction of inflammation and T cell activation after 6 months of cART initiation during acute, but not in early chronic HIV-1 infection. <i>Retrovirology</i>. 2018 [date cited].'
+citation: ''
 ---
 
 **Abstract**
