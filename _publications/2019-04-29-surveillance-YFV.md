@@ -3,7 +3,7 @@ title: "Combination of surveillance tools reveals that Yellow Fever virus can re
 collection: publications
 permalink: /publication/2019-04-29-surveillance-YFV.md
 excerpt: 'We detected the first evidence of YFV re-emergence in the third transmission season (2018-2019) in a dying howler monkey from the central region of the Rio de Janeiro (Brazil) state.'
-date: 2018-12-12
+date: 2019-04-29
 venue: 'Memórias'
 paperurl: ''
 citation: ''
