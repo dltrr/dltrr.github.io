@@ -6,7 +6,7 @@ excerpt: 'Some HIV controllers are able to repeatedly limit replication and evol
 date: 2018-11-27
 venue: 'AIDS'
 paperurl: ''
-citation: 'de Azevedo SSD, Delatorre E, Côrtes FH, Hoagland B, Grinsztejn B, Veloso VG, Souza TML, Morgado MG, Bello G. HIV controllers suppress viral replication and evolution and prevent disease progression following intersubtype HIV-1 superinfection. <i>AIDS</i>. 2018 [date cited].'
+citation: ''
 ---
 
 **Abstract**
